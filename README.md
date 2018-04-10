@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Liu et al., "Loss of adult skeletal muscle stem cells drives age-related neuromuscular junction degeneration". eLife, 2017. http://dx.doi.org/10.7554/eLife.26464
+
+
+
 # ImageJ Plugin : FiberSize
 
 **FiberSize** is an [ImageJ](http://rsb.info.nih.gov/ij/) plugin for fiber size measurement.
